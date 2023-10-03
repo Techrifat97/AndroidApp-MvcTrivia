@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvcTrivia</string>
+    <string name="correct">TRUE</string>
+    <string name="incorrect">FALSE</string>
+    <string name="previous_button">Previous_Button</string>
+    <string name="next_button">Next_Button</string>
+</resources>
